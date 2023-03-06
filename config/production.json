@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://dodotfkb:thfeb30328@cluster0.cn26ue0.mongodb.net/CodeKeeper?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
